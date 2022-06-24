@@ -1,2 +1,2 @@
 This is a test of staging
-SECOND TEST of staging and push
+This is the 2nd test
